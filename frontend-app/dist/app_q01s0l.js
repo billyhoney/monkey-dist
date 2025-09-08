@@ -48413,6 +48413,6 @@ window.addEventListener("load", () => {
   };
   const e = new Proxy(new URLSearchParams(window.location.search), {
     get: (r, s) => r.get(s)
-  }), t = document.getElementById("app-root"), i = t?.dataset.path, o = e.q;
+  }), t = document.getElementById("app-root"), i = t?.dataset.path, o = e.qid;
   window.loadApp(t, { path: i, quoteId: o });
 });
