@@ -48164,7 +48164,7 @@ const XD = ({ quote: e }) => {
   if (!e) return null;
   `${e.input.user.firstName}`;
   const [t, ...i] = e.fees;
-  return /* @__PURE__ */ De.jsx(De.Fragment, { children: /* @__PURE__ */ De.jsx(E8, { children: /* @__PURE__ */ De.jsx(Zj, { className: "mx-auto my-auto bg-white text-black px-2 font-sans", children: /* @__PURE__ */ De.jsx(Qj, { className: "mx-auto my-[40px] max-w-[465px] rounded border border-[#eaeaea] border-solid p-[20px]", children: /* @__PURE__ */ De.jsxs(eD, { className: "border-monkey border-1", children: [
+  return /* @__PURE__ */ De.jsx(De.Fragment, { children: /* @__PURE__ */ De.jsx(E8, { children: /* @__PURE__ */ De.jsx(Zj, { children: /* @__PURE__ */ De.jsx(Qj, { children: /* @__PURE__ */ De.jsxs(eD, { className: "border-monkey border-1", children: [
     /* @__PURE__ */ De.jsx(ba, { className: "bg-monkey", children: /* @__PURE__ */ De.jsx(ya, { children: /* @__PURE__ */ De.jsx(vi, { className: "p-2 m-0 font-bold", children: "Monkey Conveyancing Seller Fees (including GST)" }) }) }),
     /* @__PURE__ */ De.jsxs(ba, { className: "border-b-1 border-b-monkey", children: [
       /* @__PURE__ */ De.jsx(ya, { className: "border-r-monkey border-r-1", children: /* @__PURE__ */ De.jsxs(vi, { className: "p-2 m-0 text-xs", children: [
