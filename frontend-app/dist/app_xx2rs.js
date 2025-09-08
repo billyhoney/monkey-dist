@@ -28301,11 +28301,11 @@ function L5() {
       state: "QLD"
     });
   };
-  return /* @__PURE__ */ De.jsxs("div", { className: "text-left text-sm bg-white text-black p-8", children: [
-    /* @__PURE__ */ De.jsx("h2", { className: "text-lg text-monkey font-extrabold mb-4", children: "Monkey Conveyancing Fees for a Seller" }),
+  return /* @__PURE__ */ De.jsxs("div", { className: "", children: [
+    /* @__PURE__ */ De.jsx("h2", { className: "text-md text-monkey font-extrabold mb-4", children: "Monkey Conveyancing Fees for a Seller" }),
     /* @__PURE__ */ De.jsxs(SI, { onSubmit: o, methods: t, children: [
       /* @__PURE__ */ De.jsx("p", { className: "font-bold", children: "Select from one of the options below:" }),
-      /* @__PURE__ */ De.jsxs("div", { className: "mt-4 grid gap-4", children: [
+      /* @__PURE__ */ De.jsxs("div", { className: "mt-4 grid gap-2", children: [
         /* @__PURE__ */ De.jsx("div", { className: "grid gap-1", children: F5.map(({ value: r, label: s }) => /* @__PURE__ */ De.jsxs("div", { className: "flex flex-row gap-2", children: [
           /* @__PURE__ */ De.jsx(
             "input",
