@@ -48275,7 +48275,15 @@ const p4 = ({ quote: e }) => {
   if (!e) return null;
   const t = `${e.input.user.firstName}, your quote from Monkey Conveyancing`, [i, ...o] = e.fees;
   return /* @__PURE__ */ Ae.jsx(Ae.Fragment, { children: /* @__PURE__ */ Ae.jsxs(lD, { children: [
-    /* @__PURE__ */ Ae.jsx(aD, { children: /* @__PURE__ */ Ae.jsx(_L, { fontFamily: "Athiti", fallbackFontFamily: "sans-serif" }) }),
+    /* @__PURE__ */ Ae.jsx(aD, { children: /* @__PURE__ */ Ae.jsx(
+      _L,
+      {
+        fontFamily: "Athiti",
+        fallbackFontFamily: "sans-serif",
+        fontWeight: 400,
+        fontStyle: "normal"
+      }
+    ) }),
     /* @__PURE__ */ Ae.jsx(fD, { children: t }),
     /* @__PURE__ */ Ae.jsx(u9, { children: /* @__PURE__ */ Ae.jsx(Xj, { children: /* @__PURE__ */ Ae.jsx(rD, { children: /* @__PURE__ */ Ae.jsxs(vD, { className: "border-monkey border-1", children: [
       /* @__PURE__ */ Ae.jsx(ba, { className: "bg-monkey", children: /* @__PURE__ */ Ae.jsx(ya, { children: /* @__PURE__ */ Ae.jsx(vi, { className: "p-2 m-0 font-bold", children: "Monkey Conveyancing Seller Fees (including GST)" }) }) }),
