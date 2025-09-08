@@ -28301,7 +28301,7 @@ function L5() {
       state: "QLD"
     });
   };
-  return /* @__PURE__ */ De.jsxs("div", { className: "", children: [
+  return /* @__PURE__ */ De.jsxs("div", { className: "text-sm", children: [
     /* @__PURE__ */ De.jsx("h2", { className: "text-md text-monkey font-extrabold mb-4", children: "Monkey Conveyancing Fees for a Seller" }),
     /* @__PURE__ */ De.jsxs(SI, { onSubmit: o, methods: t, children: [
       /* @__PURE__ */ De.jsx("p", { className: "font-bold", children: "Select from one of the options below:" }),
